@@ -1,5 +1,5 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-![Kolade-Fatai-Opeyemi_banner](https://github.com/adedayo924/Kolade-Fatai-Opeyemi/blob/92372af77d10aaf6071c29e363e6f44c2b7a5a5b/portfolio.webp)
+![Kolade-Fatai-Opeyemi_banner](https://raw.githubusercontent.com/adedayo924/Kolade-Fatai-Opeyemi/main/portfolio.webp)
 <h1 align="center">Hi <img src="https://github.com/adedayo924/Kolade-Fatai-Opeyemi/blob/main/wave.gif" width="30px">, I'm Kolade Fatai Opeyemi</h1>
 <h3 align="center">A passionate Full Stack Software Engineer from Nigeria</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
