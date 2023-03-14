@@ -1,5 +1,5 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-![Kolade-Fatai-Opeyemi_banner](https://user-images.githubusercontent.com/99369085/189547193-992ed153-38b7-4814-8cba-4054cdb382ea.png)
+![Kolade-Fatai-Opeyemi_banner](https://github.com/adedayo924/Kolade-Fatai-Opeyemi/blob/92372af77d10aaf6071c29e363e6f44c2b7a5a5b/portfolio.webp)
 <h1 align="center">Hi <img src="https://github.com/adedayo924/Kolade-Fatai-Opeyemi/blob/main/wave.gif" width="30px">, I'm Kolade Fatai Opeyemi</h1>
 <h3 align="center">A passionate Full Stack Software Engineer from Nigeria</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
@@ -22,7 +22,8 @@
       <a href="https://instagram.com/jeilocreative" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeilocreative" height="30" width="40" /></a>
       </p>
       <h3 align="left">Languages and Tools:</h3>
-      <p align="left"> 
+      <p align="left">
+      <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/1x/flutter.png" alt="flutter" width="40" height="40"/> </a>   
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
@@ -31,7 +32,6 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/1x/flutter.png" alt="flutter" width="40" height="40"/> </a>  
       <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
       </p>    
     </td>
