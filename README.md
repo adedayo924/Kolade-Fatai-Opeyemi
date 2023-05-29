@@ -12,7 +12,7 @@
       <p>- 🌱 I’m currently learning <b>Flutter and Javascript</b></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto:adedayo924@gmail.com alt=email>adedayo924@gmail.com</a></b></p>
-      <p>- ⚡ Fun fact: <b>I'm a student of the ALX Software Engineering Programme (cohort 7)</b></p>
+      <p>- ⚡ Fun fact: <b>I'm a student of the ALX Software Engineering Programme (previously cohort 7 but deferred to cohort 9)</b></p>
     </td>
     <td>
       <h3 align="left">Connect with me:</h3>
