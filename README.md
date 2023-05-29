@@ -8,8 +8,8 @@
 <table>
   <tr>
     <td>
-      <p>- 🔭 I’m currently working on <b>a clone of the AirBnB web app</b></p>
-      <p>- 🌱 I’m currently learning <b>Javascript</b></p>
+      <p>- 🔭 I’m currently working on <b>Jeilova app</b> a cross platform AI virtual assistant mobile app</p>
+      <p>- 🌱 I’m currently learning <b>Flutter and Javascript</b></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto:adedayo924@gmail.com alt=email>adedayo924@gmail.com</a></b></p>
       <p>- ⚡ Fun fact: <b>I'm a student of the ALX Software Engineering Programme (cohort 7)</b></p>
