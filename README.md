@@ -1,9 +1,9 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-<h1 align="center"><img src="https://github.com/adedayo924/Kolade-Fatai-Opeyemi/blob/main/ope.jpg" width="200px" height="200px"></h1>
+<h1 align="center"><img src="./ope.jpg" width="200px" height="200px"></h1>
 ![Kolade-Fatai-Opeyemi_banner](https://raw.githubusercontent.com/adedayo924/Kolade-Fatai-Opeyemi/main/portfolio.webp)
 <h1 align="center">Hi <img src="https://github.com/adedayo924/Kolade-Fatai-Opeyemi/blob/main/wave.gif" width="30px">, I'm Kolade Fatai Opeyemi</h1>
 <h3 align="center">A passionate Full Stack Software Engineer from Nigeria</h3>
-<!--<img align= "right" alt="Coding" width="375" src="https://raw.githubusercontent.com/adedayo924/Kolade-Fatai-Opeyemi/main/wave.gif">-->
+<!--<img align= "right" alt="Coding" width="375" src="./wave.gif">-->
 
 <table>
   <tr>
